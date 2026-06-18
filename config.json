@@ -1,0 +1,5 @@
+{
+  "server_name": "ai-inference-01",
+  "gpu_count": 4,
+  "status": "running"
+}
